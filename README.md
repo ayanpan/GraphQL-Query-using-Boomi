@@ -62,7 +62,7 @@ Below are the screenshots of successful process execution and response from Grap
 
 ## Sample API and Document Details
 
-I've used an API from this [website] (https://www.apollographql.com/blog/community/backend/8-free-to-use-graphql-apis-for-your-projects-and-demos/).
+I've used an API from this website - https://www.apollographql.com/blog/community/backend/8-free-to-use-graphql-apis-for-your-projects-and-demos/.
 
 **URL:** https://countries.trevorblades.com/graphql
 
