@@ -14,3 +14,6 @@ GraphQL Query can be tricky to directly write in Boomi process canvas. I recomme
 **Step-3:** Select **HTTP** from the dropdown-list, and copy the contents of **Line#6**, as per the below screenshot.
 
 ![a2](https://user-images.githubusercontent.com/12267939/205018749-2987d9aa-c36c-4f67-b2a5-a53f730e0cf1.JPG)
+
+
+## Generate Query Request Payload using Postman
