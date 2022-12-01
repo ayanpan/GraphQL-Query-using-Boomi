@@ -70,18 +70,7 @@ I've used an API from this website - https://www.apollographql.com/blog/communit
 
 **Query:** 
 
-query Query {
-  country(code: "IN") {
-    name
-    native
-    capital
-    currency
-    languages {
-      code
-      name
-    }
-  }
-}
+'{"query":"query Query {\r\n  country(code: \"IN\") {\r\n    name\r\n    native\r\n    capital\r\n    currency\r\n    languages {\r\n      code\r\n      name\r\n    }\r\n  }\r\n}"}'
 
 **Response:** 
 
