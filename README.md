@@ -16,6 +16,7 @@ GraphQL Query can be tricky to directly write in Boomi process canvas. I recomme
 ![a2](https://user-images.githubusercontent.com/12267939/205018749-2987d9aa-c36c-4f67-b2a5-a53f730e0cf1.JPG)
 
 
+
 ## Call GraphQL API using Boomi
 Overall Boomi process is as below.
 
@@ -45,5 +46,20 @@ Overall Boomi process is as below.
 
 ![a9](https://user-images.githubusercontent.com/12267939/205025049-d688b0be-0b0c-418f-aa3d-43288e002d35.JPG)
 
+
+
 ## Process Execution Details
 Below are the screenshots of successful process execution and response from GraphQL API.
+
+![a10](https://user-images.githubusercontent.com/12267939/205025589-60fcda1d-d017-4aa0-93c2-7fb7f6f3c84e.JPG)
+
+![a11](https://user-images.githubusercontent.com/12267939/205025630-bea1bc14-fa65-4df9-bdff-0289ea374ed3.JPG)
+
+![a12](https://user-images.githubusercontent.com/12267939/205025662-5b8136aa-fcef-45b4-b64b-ae66526bc8a4.JPG)
+
+![a13](https://user-images.githubusercontent.com/12267939/205025699-3d139b49-845c-41d3-aaf0-4dcda86aa041.JPG)
+
+
+## Sample API and Document Details
+
+
