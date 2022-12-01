@@ -68,4 +68,40 @@ I've used an API from this website - https://www.apollographql.com/blog/communit
 
 **HTTP Method:** POST
 
+**Query:** 
 
+query Query {
+  country(code: "IN") {
+    name
+    native
+    capital
+    currency
+    languages {
+      code
+      name
+    }
+  }
+}
+
+**Response:** 
+
+{
+    "data": {
+        "country": {
+            "name": "India",
+            "native": "भारत",
+            "capital": "New Delhi",
+            "currency": "INR",
+            "languages": [
+                {
+                    "code": "hi",
+                    "name": "Hindi"
+                },
+                {
+                    "code": "en",
+                    "name": "English"
+                }
+            ]
+        }
+    }
+}
