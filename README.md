@@ -30,7 +30,7 @@ Overall Boomi process is as below.
 
 ![a5](https://user-images.githubusercontent.com/12267939/205024773-c0be81cb-0aaf-452d-b6b2-00de2b502cd7.JPG)
 
-**Step-3:** Configure the HTTP Client operation, as per the below screesnhot.
+**Step-3:** Configure the HTTP Client operation, as per the below screenshot.
 
 ![a6](https://user-images.githubusercontent.com/12267939/205024825-d33d6861-1658-424e-9a5a-cb7668029ab7.JPG)
 
