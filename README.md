@@ -38,11 +38,11 @@ Overall Boomi process is as below.
 
 ![a7](https://user-images.githubusercontent.com/12267939/205024916-db36d68c-548e-46a3-9688-98b8ebe1f5d1.JPG)
 
-**Step-4:** Configure the Map shape, as per the below screenshot, or, as per the project requirement.
+**Step-5:** Configure the Map shape, as per the below screenshot, or, as per the project requirement.
 
 ![a8](https://user-images.githubusercontent.com/12267939/205025009-6d86de24-fac0-4dca-b0a9-b37ca0d3cf63.JPG)
 
-**Step-5:** Configure the Notify shape, as per the below screenshot, or, have the error handling mechanism as per the project requirement.
+**Step-6:** Configure the Notify shape, as per the below screenshot, or, have the error handling mechanism as per the project requirement.
 
 ![a9](https://user-images.githubusercontent.com/12267939/205025049-d688b0be-0b0c-418f-aa3d-43288e002d35.JPG)
 
